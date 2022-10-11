@@ -1,0 +1,40 @@
+<resources>
+    <string name="Food2Fit">Food2Fit</string>
+    <string-array name="names">
+        <item>Enter you meal</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+    <string-array name="mealNames">
+        <item>Enter Food Item1</item>
+        <item>Aloo De Parothe (177cal.)</item>
+        <item>Butter Chicken (248cal.)</item>
+        <item>Burger  (295cal.)</item>
+        <item>Chhole Kulche  (112cal.)</item>
+        <item>Chhole Bhature  (427cal.)</item>
+        <item>French Fries  (323cal.)</item>
+        <item>Ice-cream  (207cal.)</item>
+        <item>Rice and Pulse (130cal.)</item>
+        <item>Samosa  (262cal.)</item>
+        <item>Sugary Drinks (125cal.)</item>
+        <item>Pastries,Cakes (257cal.)</item>
+        <item>Pizza (266cal.)</item>
+
+    </string-array>
+    <string-array name="secondMealNames">
+        <item>Enter Food Item2</item>
+        <item>Aloo De Parothe (177cal.)</item>
+        <item>Butter Chicken (248cal.)</item>
+        <item>Burger  (295cal.)</item>
+        <item>Chhole Kulche  (112cal.)</item>
+        <item>Chhole Bhature  (427cal.)</item>
+        <item>French Fries  (323cal.)</item>
+        <item>Ice-cream  (207cal.)</item>
+        <item>Rice and Pulse (130cal.)</item>
+        <item>Samosa  (262cal.)</item>
+        <item>Sugary Drinks (125cal.)</item>
+        <item>Pastries,Cakes (257cal.)</item>
+        <item>Pizza (266cal.)</item>
+    </string-array>
+</resources>
